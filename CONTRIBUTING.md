@@ -16,6 +16,7 @@ Lastly, run the test command from the console:
 
     npm test
 
+npm install & npm start & open http://localhost:9966/
 
 ## Deploying
 
